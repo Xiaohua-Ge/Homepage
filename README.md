@@ -1,6 +1,6 @@
 # Xiaohua Ge
 Xiaohua-Ge.github.io/Homepage
-# Data Scientist
+# Control Theorist and Control Engineer
 
 ### Education
 PhD in Computer Engineering
